@@ -1,2 +1,3 @@
 # Anti-Spoofing
-This project differentiates between a real person and a fake one.
+In this project I Generated custom datasets for anti-spoofing by collecting diverse facial images, improving model accuracy, and enhancing liveness detection for a more secure face recognition system.
+
