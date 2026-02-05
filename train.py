@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 
-model = YOLO('yolov8n.pt')
+model = YOLO('models/yolov8n.pt')
 
 def main():
     model.train(data='Dataset/SplitData/dataOffline.yaml', epochs=50)
