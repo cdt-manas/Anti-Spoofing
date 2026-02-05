@@ -12,6 +12,15 @@ This project implements a computer vision pipeline to distinguish between **"Rea
 
 The system is built on **Ultralytics YOLOv8**, a state-of-the-art object detection model, ensuring high speed and accuracy for real-time applications.
 
+## 📸 Project Outcomes
+
+Here is the system in action:
+
+| **Real Face Detection** | **Fake (Spoof) Detection** |
+|:---:|:---:|
+| ![Real Face](assets/screenshots/demo_2.png) | ![Fake Face](assets/screenshots/demo_1.png) |
+| *System correctly identifies a live user with high confidence.* | *System detects a photo/screen attack.* |
+
 ## ✨ Features
 
 - **Real-time Detection**: Operates seamlessly on live webcam feeds.
