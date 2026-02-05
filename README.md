@@ -87,6 +87,13 @@ python main.py
 └── main.py              # Main real-time application
 ```
 
+## ✔️ Demo Outcomes 
+
+```
+<img width="1470" height="956" alt="Screenshot 2024-12-27 at 19 11 26" src="https://github.com/user-attachments/assets/ec95b211-3843-4116-92de-32d963ac7e45" />
+<img width="1470" height="956" alt="Screenshot 2024-12-26 at 11 16 12" src="https://github.com/user-attachments/assets/5b465662-fe67-45e4-a704-ca2570f6769e" />
+```
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
