@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.idea/
+.DS_Store
+
+# Project Specific
+runs/
+Dataset/
+Dataset/DataCollect/
+# Keep the yaml if needed, but usually data is ignored
+!Dataset/SplitData/*.yaml
+
+# Models (Optional: un-comment if you want to ignore large models)
+# models/*.pt
